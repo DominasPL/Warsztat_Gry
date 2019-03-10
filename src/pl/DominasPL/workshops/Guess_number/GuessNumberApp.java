@@ -1,4 +1,4 @@
-package pl.DominasPL.workshops.guess_number;
+package pl.DominasPL.workshops.Guess_number;
 
 import java.util.Random;
 import java.util.Scanner;
