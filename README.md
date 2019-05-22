@@ -1,9 +1,7 @@
 # Warsztat_Gry
 Warsztat nr 1 z Kursu Java Junior Developer "CodersLab"
 
-
 ## ZAWARTOŚĆ
-
 1. Gra w zgadywanie liczb
 2. Symulator LOTTO
 3. Gra w zgadywanie liczb 2
