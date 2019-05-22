@@ -1,5 +1,5 @@
 # Warsztat_Gry
-Warsztat nr 1 z Kursu Java Junior Developer "CodersLab"
+Warsztat nr 1 z Kursu Junior Java Developer "CodersLab"
 
 ## ZAWARTOŚĆ
 1. Gra w zgadywanie liczb
