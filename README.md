@@ -1,5 +1,5 @@
 # Warsztat_Gry
-Warszatat nr 1 z Kursu Java Junior Developer "CodersLab"
+Warsztat nr 1 z Kursu Java Junior Developer "CodersLab"
 
 
 ## ZAWARTOŚĆ
